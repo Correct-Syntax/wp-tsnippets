@@ -3,8 +3,6 @@ Wordpress T'Snippets
 
 **Wordpress T'Snippets** (Wordpress Theme Snippets) is a bunch of useful code snippets for creating custom Wordpress themes, etc.
 
-Feel free to contact me or open a Github Issue for questions, concerns and/or improvements. I am always willing to learn from others! :)
-
 *Some of these snippets I have found elsewhere (with compatible licenses) and use frequently so I have placed here (with my own tweaks/edits in most cases).*
 
 
